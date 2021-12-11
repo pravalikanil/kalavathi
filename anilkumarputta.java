@@ -7,5 +7,6 @@ public static void main(String ar[])
     System.out.println("the result is"+(a&b));
     System.out.println("the result is"+(a|b));
     System.out.println("the result is"+(!a));
+    println();
 }   
 }
